@@ -142,12 +142,12 @@ void mostrar_aristas(){
 
 int crear_menu(){
 	cout<<"---Administracion de grafos---"<<endl;
-	cout<<"1) Digite el numero de la accion que desea realizar"<<endl;
-	cout<<"2) Insertar Nodo"<<endl;
-	cout<<"3) Insertar arista. "<<endl;
-	cout<<"4) Mostrar grafo"<<endl;
-	cout<<"5) Mostrar arista"<<endl;
-	cout<<"Salir"<<endl;
+	cout<<"Digite el numero de la accion que desea realizar"<<endl;
+	cout<<"1) Insertar Nodo"<<endl;
+	cout<<"2) Insertar arista. "<<endl;
+	cout<<"3) Mostrar grafo"<<endl;
+	cout<<"4) Mostrar arista"<<endl;
+	cout<<"5) Salir"<<endl;
 }
 
 int main(){
